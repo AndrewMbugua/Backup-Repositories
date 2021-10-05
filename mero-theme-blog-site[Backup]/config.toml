@@ -1,0 +1,43 @@
+baseURL = "https://andrewstechblog.netlify.app/"
+languageCode = "en-us"
+title = "Andrew's Blog"
+theme = "mero"
+disableKinds = ["taxonomyTerm"]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = '0.80.0'
+
+[params]
+  dateFormat = "2006-01-02" 
+  author = "Andrew Mbugua"
+  description = "My awesome blog"
+  mainImage = "images/main.jpeg"
+
+[params.introduction]
+   text = "**This is my personal blog site where I blog about technical stuff**."
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-stack-overflow"
+  url = "#"  
+
+[params.footer]
+  message = "&copy; 2018 Name"
