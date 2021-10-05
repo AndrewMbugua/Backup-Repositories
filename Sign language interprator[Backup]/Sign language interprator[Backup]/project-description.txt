@@ -1,0 +1,46 @@
+Part 1 - descritption
+- What is the problem or customer need you are addressing and why is it important to solve it?(show theres a prolem worth solving,app benefit,customer benefit, and the need for dev new appllication)
+
+- Briefly describe the solution and how it works
+
+Sign language detection using deep learning (Tensorflow library)
+
+- What about your solution is innovative
+
+It uses major top technologies such as:
+Computer Vision.
+Deep learning.
+
+Part 2 scalability and impact
+
+- What are your primary customer segments & how big can the addressable market become(show that early adopters are willing to buy the product & a big room for customer growth)
+1. Sign language educators.
+2. Sign language leaners.
+
+the targeted market size may vary due to the varying n.o of disabled in various areas
+
+- existing & possible future alternatives & why should customers select yours as better
+1.A smart glove that converts sign language movements into audio speech--> link[https://www.pulselive.co.ke/bi/tech/25-year-old-kenyan-invents-gloves-that-convert-sign-language-into-audio-speech/rfc9cyj]
+
+My solution is purely software,machine independent and doesnt require external peripherals such as webcams  unless available.
+
+- In what ways are you growing you	r n.o of custoemrs & users OR how do plan to grow your numbers of customers & users 
+
+Offer free trials or a periodic testing phase(show a road map & milestones to achieve...
+
+- Next steps or targets to achieve in the next 3-12 months
+
+Extensive training of the deep learning models
+
+- Obstacles to be identified or may be encountered in the future & what steps you will take to overcome them
+
+Obtaining more sign language images for effective model training.
+
+
+
+
+
+
+
+
+ 
